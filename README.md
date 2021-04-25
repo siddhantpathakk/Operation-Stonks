@@ -1,4 +1,4 @@
-# Operation-Stonks
+# Operation Stonks
 This is our first year project under the course CZ1115: Introduction to Data Science and Artificial Intelligence.
 
 ### Motivation:
