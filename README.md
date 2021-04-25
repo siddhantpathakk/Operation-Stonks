@@ -10,12 +10,15 @@ We aim to prepare a useful model to determine whether to invest in a specific co
 
 ### Dataset Source:
 The dataset has been obtained from the Alpha Vantage Stock API. It is a dynamic dataset, i e its information is periodically updated on a daily basis It required importing of the Alpha Vantage API as a Python module. 
+
 Source: https://www.alphavantage.co/documentation/ (requires FREE API KEY)
 
 ### Procedure:
 The jupyter notebook is roughly divided into three segments: 
 1.) Time Series Analysis 
+
 2.) Random Forest Classification
+
 3.) Clustering and Anomaly Detection
 
 We first clean the data, introduce essential variables (both numerical and categorical) and then explore it to understand patterns and trends within the data.
