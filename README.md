@@ -15,6 +15,7 @@ Source: https://www.alphavantage.co/documentation/ (requires FREE API KEY)
 
 ### Procedure:
 The jupyter notebook is roughly divided into three segments: 
+
 1.) Time Series Analysis 
 
 2.) Random Forest Classification
